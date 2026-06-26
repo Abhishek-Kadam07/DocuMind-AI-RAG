@@ -102,7 +102,7 @@ DocuMind-AI-RAG
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YourUsername/DocuMind-AI-RAG.git
+git clone https://github.com/Abhishek-Kadam07/DocuMind-AI-RAG.git
 cd DocuMind-AI-RAG
 ```
 
@@ -214,12 +214,6 @@ Ask multiple questions continuously.
 
 ---
 
-## Step 4
-
-Upload more documents and ask questions across all uploaded documents.
-
----
-
 # 🧠 How RAG Works
 
 1. Documents are uploaded.
@@ -237,40 +231,19 @@ Upload more documents and ask questions across all uploaded documents.
 
 ## Home Page
 
-```text
-Add Screenshot Here
-```
+![Home Page](screenshots/home.png)
+
 
 ## Document Upload
 
-```text
-Add Screenshot Here
-```
+![Upload](screenshots/upload.png)
 
-## Asking Questions
 
-```text
-Add Screenshot Here
-```
+## Question and their answer
 
-## Generated Answer
+![Answer](screenshots/answer.png)
+ 
 
-```text
-Add Screenshot Here
-```
-
----
-
-# 🎯 Sample Questions
-
-```text
-What is the summary of the document?
-List all important points.
-Who are the people mentioned?
-What are the technical skills?
-What is the conclusion of the report?
-
----
 
 # 📋 Requirements
 
