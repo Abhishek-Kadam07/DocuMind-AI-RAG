@@ -236,12 +236,12 @@ Ask multiple questions continuously.
 
 ## Document Upload
 
-![Upload](screenshots/upload.png)
+![Upload Documents](screenshots/upload.png)
 
 
 ## Question and their answer
 
-![Answer](screenshots/answer.png)
+![Generated Answer](screenshots/answer.png)
  
 
 
